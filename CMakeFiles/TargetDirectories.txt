@@ -1,0 +1,3 @@
+/home/barklis/Dokumenty/IT/Programowanie/C/Nowe/Kwanty/quantum_problems/CMakeFiles/rebuild_cache.dir
+/home/barklis/Dokumenty/IT/Programowanie/C/Nowe/Kwanty/quantum_problems/CMakeFiles/edit_cache.dir
+/home/barklis/Dokumenty/IT/Programowanie/C/Nowe/Kwanty/quantum_problems/CMakeFiles/prog.dir
