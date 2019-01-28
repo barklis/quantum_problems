@@ -1,0 +1,1 @@
+Może zróbmy bibliotekę quantum.so?
