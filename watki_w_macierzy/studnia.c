@@ -150,7 +150,7 @@ void print_partof_Matrix(struct Args *problem, int n_beg, int n_end, int m_beg, 
 int main(){
 
 	int rc;
-	int ret = create_Matrix(&args, 55500, 55500);	
+	int ret = create_Matrix(&args, 5000, 5000);	
 	if(ret != 0){
 		perror("In main(), no matrix!");
 		exit(-1);
@@ -186,7 +186,7 @@ int main(){
           	}
        		printf("Main: completed join with thread %ld having a status of %ld\n",i,(long)status);
 	}
-	print_partof_Matrix(&args, 20000, 20010, 130, 200);
+	print_partof_Matrix(&args, 200, 500, 1000, 1300);
 	delete_Matrix(&args);
 
 	pthread_exit(NULL);
